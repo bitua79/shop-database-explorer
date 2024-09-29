@@ -1,6 +1,6 @@
 # Shop Database Query System
 
-This is a Java project with a JavaFX UI that interacts with a shop database. Users can input and execute queries, view results, and handle exceptions directly from the interface. The project supports multiple profile roles, offering different access levels to various queries based on the user’s role.
+This is a Java project with a JavaFX UI that interacts with a shop database. Users can input and execute queries, view results, and handle exceptions directly from the interface. The project supports multiple profile roles, offering different access levels to various queries based on the user’s role. This project was developed as part of the Database course, focusing on query execution, user role management, and exception handling with a JavaFX interface.
 
 ## Features
 
